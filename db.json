@@ -1,0 +1,46 @@
+{
+  "presidents": [
+    {
+      "id": 0,
+      "name": "George Washington",
+      "number": 1,
+      "party": "Unaffiliated",
+      "vice_president": "John Adams",
+      "first_lady": "Martha Washington",
+      "info": [
+        {
+          "dates": "1789-1797",
+          "summary": "Martha Washington - John Adams - A founding father, military general, and the first president of the United States, President Washington calls the dollar bill home and knew how to cross the Delaware River in style."
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "John Adams",
+      "number": 2,
+      "party": "Federalist",
+      "vice_president": "Thomas Jefferson",
+      "first_lady": "Abigail Adams",
+      "info": [
+        {
+          "dates": "1797-1801",
+          "summary": "The first vice president and soon thereafter, the second president, President John Adams was the author of the Massachusetts constitution and by chance died on July 4th, 1826 … 50 years after the Declaration of Independence was adopted."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Thomas Jefferson",
+      "number": 3,
+      "party": "Democratic-Republic",
+      "vice_president": "Aaron Burr",
+      "first_lady": "Martha Wayles Skelton Jefferson",
+      "info": [
+        {
+          "dates": "1801-1809",
+          "summary": "Growing up in Virginia (the state birthing the most presidents), President Thomas Jefferson was co-author of the Declaration of Independence and in his spare time was enthused by (proto) archaeology."
+        }
+      ]
+    }
+  ]
+}
