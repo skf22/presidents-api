@@ -11,7 +11,7 @@
       "info": [
         {
           "dates": "1789-1797",
-          "summary": "Martha Washington - John Adams - A founding father, military general, and the first president of the United States, President Washington calls the dollar bill home and knew how to cross the Delaware River in style."
+          "summary": "A founding father, military general, and the first president of the United States, President Washington calls the dollar bill home and knew how to cross the Delaware River in style."
         }
       ]
     },
@@ -35,13 +35,658 @@
       "name": "Thomas Jefferson",
       "img": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29%28cropped%29.jpg",
       "number": 3,
-      "party": "Democratic-Republic",
+      "party": "Democratic-Republican",
       "vice_president": "Aaron Burr",
       "first_lady": "Martha Wayles Skelton Jefferson",
       "info": [
         {
           "dates": "1801-1809",
           "summary": "Growing up in Virginia (the state birthing the most presidents), President Thomas Jefferson was co-author of the Declaration of Independence and in his spare time was enthused by (proto) archaeology."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "James Madison",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/James_Madison.jpg/1280px-James_Madison.jpg",
+      "number": 4,
+      "party": "Democratic-Republican",
+      "vice_president": "George Clinton / Elbridge Gerry",
+      "first_lady": "Dolley Madison",
+      "info": [
+        {
+          "dates": "1809-1817",
+          "summary": "5’4 President James Madison was the chief author of the Constitution, one of two presidents to sign it (the other being George Washington), and he had a pet parrot named Polly."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "James Monroe",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/James_Monroe_White_House_portrait_1819.jpg/1280px-James_Monroe_White_House_portrait_1819.jpg",
+      "number": 5,
+      "party": "Democratic-Republican",
+      "vice_president": "Daniel D. Tompkins",
+      "first_lady": "Elizabeth Kortright Monroe",
+      "info": [
+        {
+          "dates": "1817-1825",
+          "summary": "Another president from Virginia, President James Monroe studied law under Thomas Jefferson and established the country’s first foreign policy, known as the Monroe Doctrine."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "John Quincy Adams",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/JQA_Photo.tif/lossy-page1-1024px-JQA_Photo.tif.jpg",
+      "number": 6,
+      "party": "Democratic-Republican / National Republican",
+      "vice_president": "John C. Calhoun",
+      "first_lady": "Louisa Catherine Adams",
+      "info": [
+        {
+          "dates": "1825-1829",
+          "summary": "Gifted an alligator from Marquis De Lafayette, President John Quincy Adams was the first president to live in the White House."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Andrew Jackson",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Andrew_jackson_head.jpg/1280px-Andrew_jackson_head.jpg",
+      "number": 7,
+      "party": "Democratic",
+      "vice_president": "John C. Calhoun / Martin Van Buren",
+      "first_lady": "Rachel Jackson",
+      "info": [
+        {
+          "dates": "1829-1837",
+          "summary": "The only president to be a prisoner of war, President Andrew Jackson has been on the $20 bill since 1928 and is known for founding the Democratic Party."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Martin Van Buren",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Martin_Van_Buren_edit.jpg/320px-Martin_Van_Buren_edit.jpg",
+      "number": 8,
+      "party": "Democratic",
+      "vice_president": "Richard M. Johnson",
+      "first_lady": "Hannah Hoes Van Buren",
+      "info": [
+        {
+          "dates": "1837-1841",
+          "summary": "President Van Buren was the first president to be born in the U.S., had his daughter-in-law serve as First Lady after his wife passed, and had a gang formed in his honor on Seinfeld — The Van Buren Boys."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "William Henry Harrison",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/William_Henry_Harrison_daguerreotype_edit.jpg/320px-William_Henry_Harrison_daguerreotype_edit.jpg",
+      "number": 9,
+      "party": "Whig",
+      "vice_president": "John Tyler",
+      "first_lady": "Anna Tuthill Symmes Harrison",
+      "info": [
+        {
+          "dates": "1841-1841",
+          "summary": "With the shortest presidential term, President William Henry Harrison passed one month into his presidency from pneumonia that fell on him after standing in the rain for an hour giving his inauguration speech."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "John Tyler",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/John_Tyler%2C_Jr.jpg/320px-John_Tyler%2C_Jr.jpg",
+      "number": 10,
+      "party": "Whigs / Unaffiliated",
+      "vice_president": "Office Vacant",
+      "first_lady": "Letitia Christian Tyler & Julia Gardiner Tyler",
+      "info": [
+        {
+          "dates": "1841-1845",
+          "summary": "The first president to serve without being elected, President Tyler worked for the annexation of Texas to the United States and, with a strong belief in states’ rights caused major rifts through all political parties."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "James K. Polk",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/JKP.jpg/320px-JKP.jpg",
+      "number": 11,
+      "party": "Democratic",
+      "vice_president": "George M. Dallas",
+      "first_lady": "Sarah Childress Polk",
+      "info": [
+        {
+          "dates": "1845-1849",
+          "summary": "With a desire for expansion, President Polk set his eyes on the Pacific Ocean and extended the land of the U.S. by 1.2 million square miles."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Zachary Taylor",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29%28cropped%29.jpg",
+      "number": 12,
+      "party": "Whig",
+      "vice_president": "Millard Fillmore",
+      "first_lady": "Margaret Mackall Smith Taylor",
+      "info": [
+        {
+          "dates": "1849-1850",
+          "summary": "A hero of the Mexican-American War, he won the presidency because Northerners voted for him because of war heroism and Southerners did so because he was a fellow slave owner."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Millard Fillmore",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Fillmore.jpg/320px-Fillmore.jpg",
+      "number": 13,
+      "party": "Whig",
+      "vice_president": "Office Vacant",
+      "first_lady": "Abigail Powers Fillmore",
+      "info": [
+        {
+          "dates": "1850-1853",
+          "summary": "The last of the Whigs, President Fillmore was all peace and smiles trying to make everyone happy with the Compromise of 1850."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Franklin Pierce",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Mathew_Brady_-_Franklin_Pierce_-_alternate_crop_%28cropped%29.jpg/320px-Mathew_Brady_-_Franklin_Pierce_-_alternate_crop_%28cropped%29.jpg",
+      "number": 14,
+      "party": "Democratic",
+      "vice_president": "William R. King",
+      "first_lady": "Jane M. Pierce",
+      "info": [
+        {
+          "dates": "1853-1857",
+          "summary": "Some point their fingers at President Pierce for fuelling the fire that started the Civil War."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "James Buchanan",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/James_Buchanan.jpg/320px-James_Buchanan.jpg",
+      "number": 15,
+      "party": "Democratic",
+      "vice_president": "John C. Breckinridge",
+      "first_lady": "Never Married",
+      "info": [
+        {
+          "dates": "1857-1861",
+          "summary": "The last president before the Civil War, President Buchanan served without a wife and had an eagle as a pet."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Abraham Lincoln",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/320px-Abraham_Lincoln_O-77_matte_collodion_print.jpg",
+      "number": 16,
+      "party": "Republican / National Union",
+      "vice_president": "Hannibal Hamlin / Andrew Johnson",
+      "first_lady": "Mary Todd Lincoln",
+      "info": [
+        {
+          "dates": "1861-1865",
+          "summary": "The tallest president, enshrined in the Wrestling Hall of Fame, and the man who issued The Emancipation Proclamation, President Lincoln led America during the Civil War, and, ironically, signed legislation creating the Secret Service hours before his assassination."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Andrew Johnson",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Andrew_Johnson_photo_portrait_head_and_shoulders%2C_c1870-1880-Edit1.jpg/320px-Andrew_Johnson_photo_portrait_head_and_shoulders%2C_c1870-1880-Edit1.jpg",
+      "number": 17,
+      "party": "National Union / Democratic",
+      "vice_president": "Office Vacant",
+      "first_lady": "Eliza McCardle Johnson",
+      "info": [
+        {
+          "dates": "1865-1869",
+          "summary": " Known as The Veto President for continually vetoing bills passed by Congress, President Johnson is one of three presidents to be impeached."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Ulysses S. Grant",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ulysses_S_Grant_by_Brady_c1870-restored.jpg/320px-Ulysses_S_Grant_by_Brady_c1870-restored.jpg",
+      "number": 18,
+      "party": "Republican",
+      "vice_president": "Schuyler Colfax / Henry Wilson",
+      "first_lady": "Julia Dent Grant",
+      "info": [
+        {
+          "dates": "1869-1877",
+          "summary": "A Union war hero, President Grant helped establish the National Park System as well as pushing forward the 15th Amendment while fighting for the rights of Native Americans and African Americans."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Rutherford B. Hayes",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/President_Rutherford_Hayes_1870_-_1880_Restored.jpg/320px-President_Rutherford_Hayes_1870_-_1880_Restored.jpg",
+      "number": 19,
+      "party": "Republican",
+      "vice_president": "William A. Wheeler",
+      "first_lady": "Lucy Webb Hayes",
+      "info": [
+        {
+          "dates": "1877-1881",
+          "summary": "President Hayes did not serve alcohol at the White House and was the first to host the Easter Egg Roll (which continues today) and in his single term, dedicated his efforts to fighting to improve the government after the Civil War and protect the rights of people of all races."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "James A. Garfield",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/James_Abram_Garfield%2C_photo_portrait_seated.jpg/320px-James_Abram_Garfield%2C_photo_portrait_seated.jpg",
+      "number": 20,
+      "party": "Republican",
+      "vice_president": "Chester A. Arthur",
+      "first_lady": "Lucretia Rudolph Garfield",
+      "info": [
+        {
+          "dates": "1881-1881",
+          "summary": "The second of three presidents to serve in 1881, President Garfield was shot 200 days into his term and died a few months later from complications, but not before he left his mark with efforts to end political corruption."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Chester A. Arthur",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Chester_Alan_Arthur.jpg/320px-Chester_Alan_Arthur.jpg",
+      "number": 21,
+      "party": "Republican",
+      "vice_president": "Office Vacant",
+      "first_lady": "Ellen Lewis Herndon Arthur",
+      "info": [
+        {
+          "dates": "1881-1885",
+          "summary": "An unexpected leader by proxy, President Arthur helped to fund the Navy, which had been in decline, worked for funding for Native American education, reportedly had 80 pairs of pants, and held the nickname Elegant Arthur because of his desire to change outfits for every occasion."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Grover Cleveland",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Grover_Cleveland_-_NARA_-_518139_%28cropped%29.jpg/320px-Grover_Cleveland_-_NARA_-_518139_%28cropped%29.jpg",
+      "number": 22,
+      "party": "Democratic",
+      "vice_president": "Thomas A. Hendricks",
+      "first_lady": "Frances Folsom Cleveland",
+      "info": [
+        {
+          "dates": "1885-1889",
+          "summary": "The only president to serve nonconsecutive terms, President Grover Cleveland also shared the name of Veto President and struggled to unite the country after the Panic of 1893."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Benjamin Harrison",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Benjamin_Harrison%2C_head_and_shoulders_bw_photo%2C_1896.jpg/320px-Benjamin_Harrison%2C_head_and_shoulders_bw_photo%2C_1896.jpg",
+      "number": 23,
+      "party": "Republican",
+      "vice_president": "Levi P. Morton",
+      "first_lady": "Caroline Lavinia Scott Harrison & Mary Lord Harrison",
+      "info": [
+        {
+          "dates": "1889-1893",
+          "summary": "Grandson to the former President Harrison, this President Harrison welcomed Montana, North Dakota, South Dakota, Washington, Idaho, and Wyoming to the U.S. while being the first president to live in the White House with electricity."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Grover Cleveland",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Grover_Cleveland_-_NARA_-_518139_%28cropped%29.jpg/320px-Grover_Cleveland_-_NARA_-_518139_%28cropped%29.jpg",
+      "number": 24,
+      "party": "Democratic",
+      "vice_president": "Adlai E. Stevenson",
+      "first_lady": "Frances Folsom Cleveland",
+      "info": [
+        {
+          "dates": "1893-1897",
+          "summary": "He’s back for round two after a four-year breather."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "William McKinley",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Mckinley.jpg/320px-Mckinley.jpg",
+      "number": 25,
+      "party": "Republican",
+      "vice_president": "Garret A. Hobart / Theodore Roosevelt",
+      "first_lady": "Ida Saxton McKinley",
+      "info": [
+        {
+          "dates": "1897-1901",
+          "summary": "President through the Spanish-American War, President McKinley led the U.S. as it assumed recognition as a world power while making significant efforts to rebuild the economy."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Theodore Roosevelt",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/President_Roosevelt_-_Pach_Bros.jpg/320px-President_Roosevelt_-_Pach_Bros.jpg",
+      "number": 26,
+      "party": "Republican",
+      "vice_president": "Charles W. Fairbanks",
+      "first_lady": "Edith Kermit Carow Roosevelt",
+      "info": [
+        {
+          "dates": "1901-1909",
+          "summary": "Known as the trust buster, President Roosevelt worked to make American life better for all, won a Nobel Peace Prize, and was the first president to leave the country while in office, to visit the Panama Canal."
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "William H. Taft",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/William_Howard_Taft_-_Harris_and_Ewing.jpg/320px-William_Howard_Taft_-_Harris_and_Ewing.jpg",
+      "number": 27,
+      "party": "Republican",
+      "vice_president": "James S. Sherman",
+      "first_lady": "Helen Herron Taft",
+      "info": [
+        {
+          "dates": "1909-1913",
+          "summary": "President Taft established a federal tax through the 16th Amendment, was the first president to reign over the continuous 48 states, get stuck in a White House bathtub, and began the tradition of throwing out the first pitch at an MLB game."
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Woodrow Wilson",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing_bw_photo_portrait%2C_1919.jpg/320px-Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing_bw_photo_portrait%2C_1919.jpg",
+      "number": 28,
+      "party": "Democratic",
+      "vice_president": "Thomas R. Marshall",
+      "first_lady": "Ellen Axon Wilson & Edith Bolling Galt Wilson",
+      "info": [
+        {
+          "dates": "1913-1921",
+          "summary": "In office during WW1 and winner of a Nobel Peace Prize for his work to form the League of Nations, President Wilson also was printed on the $100,000 bill."
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Warren G. Harding",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Warren_G_Harding-Harris_%26_Ewing.jpg/320px-Warren_G_Harding-Harris_%26_Ewing.jpg",
+      "number": 29,
+      "party": "Republican",
+      "vice_president": "Calvin Coolidge",
+      "first_lady": "Florence Kling Harding",
+      "info": [
+        {
+          "dates": "1921-1923",
+          "summary": "The first president to be elected after the 19th Amendment and owner of size 19 feet, President Harding’s tenure was tainted by scandals caused by friends that he appointed to office."
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Calvin Coolidge",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Calvin_Coolidge_cph.3g10777_%28cropped%29.jpg/320px-Calvin_Coolidge_cph.3g10777_%28cropped%29.jpg",
+      "number": 30,
+      "party": "Republican",
+      "vice_president": "Charles G. Dawes",
+      "first_lady": "Grace Goodhue Coolidge",
+      "info": [
+        {
+          "dates": "1923-1929",
+          "summary": "President Coolidge signed the Indian Citizenship Act, which gave full U.S. citizenship rights to all Native Americans in the midst of the Roaring ’20s, and is the only president to be born on Independence Day."
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Herbert Hoover",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/President_Hoover_portrait.jpg/330px-President_Hoover_portrait.jpg",
+      "number": 31,
+      "party": "Republican",
+      "vice_president": "Charles Curtis",
+      "first_lady": "Lou Henry Hoover",
+      "info": [
+        {
+          "dates": "1929-1933",
+          "summary": "Perhaps outshined by the Great Depression, President Hoover did sign the congressional resolution that made “The Star-Spangled Banner” the national anthem of the United States, was the first president to have a phone at his desk, and did not take a salary — instead he donated it to charity."
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Franklin D. Roosevelt",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/FDR_1944_Color_Portrait.jpg/320px-FDR_1944_Color_Portrait.jpg",
+      "number": 32,
+      "party": "Democratic",
+      "vice_president": "John N. Garner / Henry A. Wallace / Harry S. Truman",
+      "first_lady": "Eleanor Roosevelt",
+      "info": [
+        {
+          "dates": "1933-1945",
+          "summary": "President Roosevelt brought America out of the Great Depression, led the U.S and Allied forces in WW2, and by the end of his fourth term, he laid the groundwork for the United Nations."
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Harry S. Truman",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/TRUMAN_58-766-06_CROPPED.jpg/320px-TRUMAN_58-766-06_CROPPED.jpg",
+      "number": 33,
+      "party": "Democratic",
+      "vice_president": "Alben W. Barkley",
+      "first_lady": "Bess Wallace Truman",
+      "info": [
+        {
+          "dates": "1945-1953",
+          "summary": "Over two terms President Truman dropped the atomic bombs on Japan, initiated the Marshall Plan and the Truman Doctrine, and embarked on the Korean War."
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Dwight D. Eisenhower",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg/320px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg",
+      "number": 34,
+      "party": "Republican",
+      "vice_president": "Richard M. Nixon",
+      "first_lady": "Mamie Doud Eisenhower",
+      "info": [
+        {
+          "dates": "1953-1961",
+          "summary": "The commander and 5-Star General of the Allied forces during WW2, President Eisenhower established the current Interstate Highway System, helped to negotiate an end to the Korean War, and created a permanent civil rights office in the Department of Justice."
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "John F. Kennedy",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/320px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
+      "number": 35,
+      "party": "Democratic",
+      "vice_president": "Lyndon B. Johnson",
+      "first_lady": "Jacqueline Kennedy",
+      "info": [
+        {
+          "dates": "1961-1963",
+          "summary": "President Kennedy is credited for starting the Peace Corps, staying cool through the Cuban Missile Crisis, and with leaving the ongoing question of who was on the grassy knoll."
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Lyndon B. Johnson",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/37_Lyndon_Johnson_3x4.jpg/320px-37_Lyndon_Johnson_3x4.jpg",
+      "number": 36,
+      "party": "Democratic",
+      "vice_president": "Hubert H. Humphrey",
+      "first_lady": "Lady Bird Johnson",
+      "info": [
+        {
+          "dates": "1963-1969",
+          "summary": " The Civil Rights Act of 1964 and the Vietnam War were the main events during President Johnson’s tenure."
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Richard Nixon",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/320px-Richard_Nixon_presidential_portrait_%281%29.jpg",
+      "number": 37,
+      "party": "Republican",
+      "vice_president": "Spiro T. Agnew / Gerald R. Ford",
+      "first_lady": "Pat Nixon",
+      "info": [
+        {
+          "dates": "1969-1974",
+          "summary": "Despite improving relations with the Soviet Union and China and the conclusion of the Vietnam War, President Nixon will be remembered primarily for the Watergate Scandal and his resignation — the only president to do so."
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Gerald Ford",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Gerald_Ford_presidential_portrait.jpg/320px-Gerald_Ford_presidential_portrait.jpg",
+      "number": 38,
+      "party": "Republican",
+      "vice_president": "Nelson Rockefeller",
+      "first_lady": "Betty Ford",
+      "info": [
+        {
+          "dates": "1974-1977",
+          "summary": " The only man to serve without being elected as either President or Vice President, President Ford spent a great deal of his term mending the country’s feelings towards its leaders while brokering a temporary truce in the Middle East."
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Jimmy Carter",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/JimmyCarterPortrait2.jpg/320px-JimmyCarterPortrait2.jpg",
+      "number": 39,
+      "party": "Democratic",
+      "vice_president": "Walter F. Mondale",
+      "first_lady": "Rosalynn Carter",
+      "info": [
+        {
+          "dates": "1977-1981",
+          "summary": "Gas prices skyrocketed with cars waiting in line to fill up while President Carter was in office, and during his time in office the Department of Energy and the Department of Education were created."
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Ronald Reagan",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/330px-Official_Portrait_of_President_Reagan_1981.jpg",
+      "number": 40,
+      "party": "Republican",
+      "vice_president": "George H. W. Bush",
+      "first_lady": "Nancy Reagan",
+      "info": [
+        {
+          "dates": "1981-1989",
+          "summary": "From the Hollywood Hills to the White House, President Reagan battled through the Cold War, reasserted confidence in Americans, escaped an assassination attempt, and oversaw the events that led to the fall of the Berlin Wall."
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "George H. W. Bush",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/George_H._W._Bush_presidential_portrait_%28cropped%29.jpg/320px-George_H._W._Bush_presidential_portrait_%28cropped%29.jpg",
+      "number": 41,
+      "party": "Republican",
+      "vice_president": "Dan Quayle",
+      "first_lady": "Barbara Bush",
+      "info": [
+        {
+          "dates": "1989-1993",
+          "summary": "As the Soviet Union fell, the U.S. led by President Bush began fighting in the Persian Gulf War, and he was also the third American president to be knighted by the Queen."
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Bill Clinton",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/320px-Bill_Clinton.jpg",
+      "number": 42,
+      "party": "Democratic",
+      "vice_president": "Al Gore",
+      "first_lady": "Hillary Rodham Clinton",
+      "info": [
+        {
+          "dates": "1993-2001",
+          "summary": "Holding term during the longest period of peace and economic growth, President (and saxophone player) Clinton is also the second of three presidents to be impeached."
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "George W. Bush",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/320px-George-W-Bush.jpeg",
+      "number": 43,
+      "party": "Republican",
+      "vice_president": "Dick Cheney",
+      "first_lady": "Laura Bush",
+      "info": [
+        {
+          "dates": "2001-2009",
+          "summary": "In office during 9/11 and deciding to lead the U.S. into Afghanistan and Iraq, President George W. Bush did overthrow Saddam Hussein."
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Barack Obama",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Official_portrait_of_Barack_Obama.jpg/320px-Official_portrait_of_Barack_Obama.jpg",
+      "number": 44,
+      "party": "Democratic",
+      "vice_president": "Joseph R. Biden",
+      "first_lady": "Michelle Obama",
+      "info": [
+        {
+          "dates": "2009-2017",
+          "summary": "The first African American president, President Obama established Health Care Reform, captured and killed Osama bin Laden, and kept the economy thriving through two terms."
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Donald Trump",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/320px-Donald_Trump_official_portrait.jpg",
+      "number": 45,
+      "party": "Republican",
+      "vice_president": "Mike Pence",
+      "first_lady": "Melania Trump",
+      "info": [
+        {
+          "dates": "2017-2021",
+          "summary": "Presided over an initial period of economic and jobs growth, and subsequently the beginning of the Coronavirus pandemic. The third of three presidents to be impeached, and the only President to be impeached twice."
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Joseph R. Biden",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/320px-Joe_Biden_presidential_portrait.jpg",
+      "number": 46,
+      "party": "Democratic",
+      "vice_president": "Kamala Harris",
+      "first_lady": "Jill Biden",
+      "info": [
+        {
+          "dates": "2021-",
+          "summary": "Vice President to Barack Obama and the oldest elected President, he has come into office during the Coronavirus Pandemic, signed the American Rescue Plan Act and rejoined the Paris Agreement on Climate Change."
         }
       ]
     }
